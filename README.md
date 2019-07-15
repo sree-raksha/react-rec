@@ -1,0 +1,2 @@
+# react-rec
+simple project
